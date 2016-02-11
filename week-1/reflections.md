@@ -69,3 +69,17 @@ In my opinion, the most important commands/arguments to know are "cd" because yo
 
 
 ###1.4 Forking and Cloning Reflection
+
+**If you were going to write instructions for a new person on how to create a new repo, fork a repo, and clone a repo, what would they be? Why would you fork a repository as opposed to create a new one?**
+
+You create a new repository by going to github.com], logging in, and clicking "+ New repository" at the upper-right of the page. You then enter a name for it and click the "Create repository" button.
+
+You fork a repository by navigating to the repository that you want to fork, then clicking the "Fork" button in the upper-right and selecting where to fork it.
+
+To clone a repository, you first go to the repository you want to clone and copy the clone URL. Then you open up a shell and navigate to the directory that you want to clone it to. After that, you type "git clone <URL>" to clone the repository.
+
+You would fork a repository because creating a new one means starting from scratch—forking gives you something to start with.
+
+**What struggles did you have setting up git and GitHub? What did you learn in the process?**
+
+I didn't struggle very much setting up git and GitHub. I learned how you make a repository and use GitHub.
