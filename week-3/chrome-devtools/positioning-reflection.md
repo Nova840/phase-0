@@ -4,8 +4,10 @@
 ![Release 2](imgs/Release-2.png)
 **Release 3:**
 ![Release 3](imgs/Release-3.png)
-**Release 4 & 5:**
-![Release 4 & 5](imgs/Release-4-5.png)
+**Release 4:**
+![Release 4](imgs/Release-4.png)
+**Release 5:**
+![Release 5](imgs/Release-5.png)
 **Release 6:**
 ![Release 6](imgs/Release-6.png)
 **Release 7:**
