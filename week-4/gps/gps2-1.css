@@ -1,0 +1,30 @@
+body{
+  background-color:lightgrey;
+}
+
+header {
+  background-color: #77AAFF;
+  margin-bottom: -15px;
+}
+
+.column-1{
+  float:left;
+  width:50%;
+  margin-bottom: 2em;
+}
+
+.column-2{
+  float:right;
+  width:50%;
+  margin-bottom: 2em;
+}
+
+article{
+  margin-left:2em;
+  margin-right:2em;
+}
+
+footer {
+  clear: both;
+  background-color: darkgrey;
+}
