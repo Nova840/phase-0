@@ -1,6 +1,6 @@
 # Build a simple guessing game
 # I worked on this challenge by myself.
-# I spent [#] hours on this challenge.
+# I spent [0.75] hours on this challenge.
 
 # Pseudocode
 
