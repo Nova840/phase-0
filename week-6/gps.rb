@@ -1,8 +1,8 @@
 # Your Names
-# 1) Adam Zmudzinski
-# 2) 
+# 1) Adam
+# 2) Chand
 
-# We spent [#] hours on this challenge.
+# We spent [1] hours on this challenge.
 
 # Bakery Serving Size portion calculator.
 
