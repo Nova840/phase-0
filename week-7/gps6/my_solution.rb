@@ -1,13 +1,11 @@
 # Virus Predictor
-
-# I worked on this challenge [by myself, with: ].
-# We spent [#] hours on this challenge.
+# I worked on this challenge with: Frank Lam.
+# We spent 1 hour on this challenge.
 
 require_relative "state_data"
 
 # EXPLANATION OF require_relative
 # Require_relative loads a file relative to the file it is # written in. Require is typically used to load features like gems by taking an input string of the gem name.
-#
 class VirusPredictor
   
   # sets instance variables
