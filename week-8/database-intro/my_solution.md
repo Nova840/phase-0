@@ -9,7 +9,7 @@
 9. select region_name from regions where region_name like "%central%";
 10. select region_name, state_name from states inner join regions on states.region_id = regions.id order by region_id asc;
 
-![persons-outfits schema](persons-outfits schema.png)
+![persons-outfits schema](persons-outfits%20schema.png)
 
 **What are databases for?**
 
