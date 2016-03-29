@@ -80,15 +80,21 @@ function average(array){
 
 // __________________________________________
 // Reflect
+/*
 
+What did you learn about adding functions to objects?
 
+  Functions can be a value for a property and can be called by accessing the property.
 
+How did you iterate over nested arrays in JavaScript?
 
+  We used a combination of the dot operator and bracket notation.
 
+Were there any new methods you were able to incorporate? If so, what were they and how did they work?
 
+  We used array's forEach method, which iterates over the array and gives you the value at the index as a parameter.
 
-
-
+*/
 // __________________________________________
 // Test Code:  Do not alter code below this line.
 
